@@ -4,19 +4,19 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: '38111',
-                nome: 'Plankton',
-                partido: 'Chatonildos',
+                numero: '22222',
+                nome: 'Ana',
+                partido: 'PL',
                 fotos:[
-                    {url:'../images/plancton.png', legenda: 'Deputado Estadual'}
+                    {url:'../images/Ana.png', legenda: 'Deputado Estadual'}
                 ]
             },
             {
-                numero: '77222',
-                nome: 'Sandy Bochechas',
-                partido: 'Fenda do Biquini',
+                numero: '22223',
+                nome: 'Josely',
+                partido: 'PL',
                 fotos:[
-                    {url:'../images/sandy.png', legenda: 'Deputado Estadual'}
+                    {url:'../images/Jo.png', legenda: 'Deputado Estadual'}
                 ]
             },
         ]
@@ -26,23 +26,23 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: '77',
-                nome: 'Bob Esponja',
-                partido: 'Fenda do Biquini',
-                vice: 'Patrick Estrela',
+                numero: '22',
+                nome: 'Bolsonaro',
+                partido: 'PL',
+                vice: 'Leandro da TI',
                 fotos:[
-                    {url:'../images/BOB ESPONJA.png', legenda: 'Presidente'},
-                    {url:'../images/PATRICK ESTRELA.webp', legenda: 'Vice-Presidente', small: true}
+                    {url:'../images/Bolsonaro.jpg', legenda: 'BOLSONARO'},
+                    {url:'../images/Leandro.jpg', legenda: 'LEANDRO DA TI', small: true}
                 ]
             },
             {
-                numero: '38',
-                nome: 'Seu Sirigueijo',
-                partido: 'Chatonildos',
-                vice: 'Lula MOlusco',
+                numero: '13',
+                nome: 'Jose da Costa',
+                partido: 'PT',
+                vice: 'Gizele',
                 fotos:[
-                    {url:'../images/sirigueijo.png', legenda: 'Presidente'},
-                    {url:'../images/molusco.png', legenda: 'Vice-Presidente', small: true}
+                    {url:'../images/Balu.jpg', legenda: 'Presidente'},
+                    {url:'../images/Gizele.jpg', legenda: 'Vice-Presidente', small: true}
                 ]
             },
         ]
