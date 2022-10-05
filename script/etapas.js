@@ -5,18 +5,18 @@ let etapas = [
         candidatos: [
             {
                 numero: '22222',
-                nome: 'Ana',
-                partido: 'PL',
+                nome: 'Batman',
+                partido: 'BR',
                 fotos:[
-                    {url:'../images/Ana.png', legenda: 'Deputado Estadual'}
+                    {url:'../images/batman.jpg', legenda: 'Deputado Estadual'}
                 ]
             },
             {
                 numero: '22223',
-                nome: 'Josely',
-                partido: 'PL',
+                nome: 'SuperMan',
+                partido: 'US',
                 fotos:[
-                    {url:'../images/Jo.png', legenda: 'Deputado Estadual'}
+                    {url:'../images/superman.jpg', legenda: 'Deputado Estadual'}
                 ]
             },
         ]
@@ -27,22 +27,22 @@ let etapas = [
         candidatos: [
             {
                 numero: '22',
-                nome: 'Bolsonaro',
-                partido: 'PL',
-                vice: 'Leandro da TI',
+                nome: 'STF',
+                partido: 'BRASIL',
+                vice: 'Tribunal Superior Eleitoral',
                 fotos:[
-                    {url:'../images/Bolsonaro.jpg', legenda: 'BOLSONARO'},
-                    {url:'../images/Leandro.jpg', legenda: 'LEANDRO DA TI', small: true}
+                    {url:'../images/tse.jpg', legenda: 'TSE'},
+                    {url:'../images/tse.jpg', legenda: 'TSE2', small: true}
                 ]
             },
             {
-                numero: '13',
-                nome: 'Jose da Costa',
-                partido: 'PT',
-                vice: 'Gizele',
+                numero: '33',
+                nome: 'Brasil',
+                partido: 'Super',
+                vice: 'TSE',
                 fotos:[
-                    {url:'../images/Balu.jpg', legenda: 'Presidente'},
-                    {url:'../images/Gizele.jpg', legenda: 'Vice-Presidente', small: true}
+                    {url:'../images/tse.jpg', legenda: 'Presidente'},
+                    {url:'../images/tse.jpg', legenda: 'Vice-Presidente', small: true}
                 ]
             },
         ]
